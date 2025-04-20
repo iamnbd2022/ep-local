@@ -10,6 +10,27 @@
       "isMain": false,
       "pushable": false,
       "nodeUuid": "local-test.cfv-404.com"
+    },
+    {
+      "endpoint": "http://127.0.0.1:7133",
+      "lut": 1744515297587,
+      "status": "",
+      "isMain": false,
+      "pushable": false,
+      "nodeUuid": "1234",
+      "resources": [
+        {
+          "pathPattern": "channel/${channelUuid}/*",
+          "variables": [
+            {
+              "name": "channelUuid",
+              "values": [
+                "3f188b10-39ec-4025-a106-fa7b7e9446ce"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "lut": 1732755973605
