@@ -5,13 +5,6 @@
   "mainEndpoint": "",
   "endpoints": [
     {
-      "endpoint": "http://127.0.0.1:6133",
-      "lut": 1732755973605,
-      "isMain": false,
-      "pushable": false,
-      "nodeUuid": "local-test.cfv-404.com"
-    },
-    {
       "endpoint": "http://127.0.0.1:7133",
       "lut": 1744515297587,
       "status": "",
@@ -31,6 +24,13 @@
           ]
         }
       ]
+    },
+    {
+      "endpoint": "http://127.0.0.1:6133",
+      "lut": 1732755973605,
+      "isMain": false,
+      "pushable": false,
+      "nodeUuid": "local-test.cfv-404.com"
     }
   ],
   "lut": 1732755973605
