@@ -31,6 +31,13 @@
       "isMain": false,
       "pushable": false,
       "nodeUuid": "local-test.cfv-404.com"
+    },
+    {
+      "endpoint": "http://127.0.0.1:8133",
+      "lut": 1732755973605,
+      "isMain": false,
+      "pushable": false,
+      "nodeUuid": "not working"
     }
   ],
   "lut": 1732755973605
