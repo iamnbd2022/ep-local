@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "host": "cfv-404.com",
+  "title": "",
+  "mainEndpoint": "",
+  "endpoints": [
+    {
+      "endpoint": "http://192.168.1.222:9766",
+      "lut": 1732755973605,
+      "isMain": false,
+      "pushable": false,
+      "nodeUuid": ""
+    }
+  ],
+  "lut": 1732755973605
+}
