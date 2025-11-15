@@ -6,7 +6,7 @@
   "endpoints": [
     {
       "endpoint1": "http://192.168.1.222:9766",
-      "endpoint": "http://192.9.189.99:9311",
+      "endpoint": "http://192.9.189.99:9766",
       "lut": 1732755973605,
       "isMain": false,
       "pushable": false,
